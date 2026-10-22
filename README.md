@@ -129,5 +129,5 @@ python angajman_mix.py --weights weights/best.pt --camera-index 0 --show --conf 
 
 **Begüm Aydoğan Çiçin**  
 *Mechatronics Engineer | Embedded Systems & Autonomous UAV Specialist*  
-* [LinkedIn](https://www.linkedin.com/in/begum-aydogan/)  
+* [LinkedIn](https://www.linkedin.com/in/begüm-aydoğan-çiçin-a94098201)  
 * Contact: `aydgnbegm@gmail.com`
