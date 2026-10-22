@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.csv
+*.pt
+*.onnx
+*.engine
+*.tlog
+*.rlog
+.vscode/
+.idea/
+*.mp4
+*.avi
+dist/
+build/
